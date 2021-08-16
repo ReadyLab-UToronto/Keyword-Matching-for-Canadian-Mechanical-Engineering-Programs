@@ -1,5 +1,7 @@
 # Keyword-Matching for Canadian Mechanical Engineering Programs
 
+DOI for this repository: https://doi.org/10.5281/zenodo.5202815
+
 Three main projects contributed to the survey of the prevalence of Engineering Design (ED), Artificial Intelligence (AI), and Emerging Themes at the Intersection of Both (EDxAI) in current Canadian engineering curricula:
 
 1. Web-scraping course information (course codes, names, and descriptions) from the webites of engineering programs
